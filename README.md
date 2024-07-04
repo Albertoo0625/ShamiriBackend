@@ -1,0 +1,1 @@
+### Configuring to work with Microsoft SQL Server Management Studio 
