@@ -1,5 +1,5 @@
 const Sequelize=require('sequelize');
-const db = require('../config/mssmConnection');
+const db = require('../Config/mssmConfig');
 
 
 const User = db.define('User', {
